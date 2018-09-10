@@ -1,3 +1,3 @@
-TODO
-
-Add readme stuff
+ __________________________________
+| README: by bryan davies, esquire |
+ ----------------------------------
